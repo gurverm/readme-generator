@@ -1,27 +1,39 @@
-# readme-generator
+# README Generator
 
-## Acceptance Criteria
+## Description
+This application generates a README.md file by prompting the user for input. Once created, the README will contain all the necessary information to relay to another individual. 
 
-GIVEN a command-line application that accepts user input
+(Fun Fact: this README was also generated using the application!)
 
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+## Table of Contents
+[Installation](#installation)
+[Usage](#usage)
+[Contributions](#contributions)
+[Tests](#tests)
+[License](#license)
+[Questions](#questions)
 
-WHEN I enter my project title
-THEN this is displayed as the title of the README
+## Installation
+Nodejs is required to run this application.
 
-WHEN I enter a description, installation instructions, usage information, 
-contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+## Usage
+This application required the installation of nodejs. It also uses the inquirer and fs modules from npm.
 
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+## Contributions
+NA
 
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+## Tests
+Once the required tools have been installed users can access the index.js file in the terminal, enter the command 'node index.js' and begin filling out the prompted questions.
 
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+Below is a demo of how a user would expect to run the application.
+[!DEMO](./images/readme-demo.gif)
+DEMO link: https://drive.google.com/file/d/1zSyMs9CPy0-KlSRVjmQVPSk2LOSwZeWY/view 
 
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+## License
+This project is licensed under mit
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+https://opensource.org/licenses/MIT
+
+## Questions
+If you have any additional questions regarding this project please contact me at maduraigurveer@gmail.com.
+You can view more of my work at https://github.com/gurverm

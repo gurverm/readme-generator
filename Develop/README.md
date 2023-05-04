@@ -1,36 +1,33 @@
+# SAMPLE README
 
-  # uuuu
+## Description
+Readme generator sample
 
-  ## Description
-  u
+## Table of Contents
+[Installation](#installation)
+[Usage](#usage)
+[Contributions](#contributions)
+[Tests](#tests)
+[License](#license)
+[Questions](#questions)
 
-  ## Table of Contents
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Contributions](#contributions)
-  *[Tests](#tests)
-  *[License](#license)
-  *[Questions](#questions)
+## Installation
+na
 
+## Usage
+na
 
-  ## Installation
-  u
+## Contributions
+na
 
-  ## Usage
-  u
+## Tests
+na
 
-  ## Contributions
-  u
+## License
+This project is licensed under mit
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+https://opensource.org/licenses/MIT
 
-  ## Tests
-  u
-
-  ## License
-  This project is licensed under mit
-  ![License](https://img.shields.io/badge/license-mit-blue.svg)
-
-  ## Questions
-  If you have any additional questions regarding this project please contact me at u.
-  You can view more of my work at https://github.com/u
-
-  
+## Questions
+If you have any additional questions regarding this project please contact me at sample@sample.com.
+You can view more of my work at https://github.com/sample
