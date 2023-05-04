@@ -63,10 +63,10 @@ const generateMarkdown = ({
   email,
 }) => {
   return `# ${title}
+  ${renderLicenseBadge(license)} 
 
 ## Description
 ${description}
-${renderLicenseBadge(license)} 
 
 ## Table of Contents
 1. [Installation](#installation)

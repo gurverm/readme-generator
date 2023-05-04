@@ -28,7 +28,7 @@ Once the required tools have been installed users can access the index.js file i
 
 Below is a demo of how a user would expect to run the application.
 ![DEMO](./images/readme-demo.gif)
-DEMO link: https://drive.google.com/file/d/1zSyMs9CPy0-KlSRVjmQVPSk2LOSwZeWY/view 
+DEMO link: https://drive.google.com/file/d/1KwhOtIRcpaYV2kYvWUiHQ4E_bjD3pMBC/view
 
 ## License
 This project is licensed under mit 

@@ -1,8 +1,8 @@
-# SAMPLE README
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+# the red wedding
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Description
-SAMPLE
+no stark left standing
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -13,21 +13,21 @@ SAMPLE
 6. [Questions](#questions)
 
 ## Installation
-NA
+na
 
 ## Usage
-NA
+na
 
 ## Contributions
-NA
+lannister army
 
 ## Tests
-SAMPLE
+na
 
 ## License
 This project is licensed under mit 
 https://opensource.org/licenses/MIT
 
 ## Questions
-If you have any additional questions regarding this project please contact me at SAMPLE@SAMPLE.COM.
-You can view more of my work at https://github.com/SAMPLE
+If you have any additional questions regarding this project please contact me at tywin@lan.com.
+You can view more of my work at https://github.com/tywin
