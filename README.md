@@ -26,7 +26,7 @@ NA
 Once the required tools have been installed users can access the index.js file in the terminal, enter the command 'node index.js' and begin filling out the prompted questions.
 
 Below is a demo of how a user would expect to run the application.
-[!DEMO](./images/readme-demo.gif)
+![DEMO](./images/readme-demo.gif)
 DEMO link: https://drive.google.com/file/d/1zSyMs9CPy0-KlSRVjmQVPSk2LOSwZeWY/view 
 
 ## License
