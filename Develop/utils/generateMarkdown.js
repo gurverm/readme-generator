@@ -69,12 +69,12 @@ const generateMarkdown = ({
 ${description}
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[Contributions](#contributions)
-[Tests](#tests)
-[License](#license)
-[Questions](#questions)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributions](#contributions)
+4. [Tests](#tests)
+5. [License](#license)
+6. [Questions](#questions)
 
 ## Installation
 ${installation}

@@ -1,27 +1,27 @@
 # SAMPLE README
 
 ## Description
-Readme generator sample
+SAMPLE
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[Contributions](#contributions)
-[Tests](#tests)
-[License](#license)
-[Questions](#questions)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributions](#contributions)
+4. [Tests](#tests)
+5. [License](#license)
+6. [Questions](#questions)
 
 ## Installation
-na
+NA
 
 ## Usage
-na
+NA
 
 ## Contributions
-na
+NA
 
 ## Tests
-na
+SAMPLE
 
 ## License
 This project is licensed under mit
@@ -29,5 +29,5 @@ This project is licensed under mit
 https://opensource.org/licenses/MIT
 
 ## Questions
-If you have any additional questions regarding this project please contact me at sample@sample.com.
-You can view more of my work at https://github.com/sample
+If you have any additional questions regarding this project please contact me at SAMPLE@SAMPLE.COM.
+You can view more of my work at https://github.com/SAMPLE
