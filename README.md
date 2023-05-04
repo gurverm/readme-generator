@@ -6,12 +6,12 @@ This application generates a README.md file by prompting the user for input. Onc
 (Fun Fact: this README was also generated using the application!)
 
 ## Table of Contents
-*[Installation](#installation)
-*[Usage](#usage)
-*[Contributions](#contributions)
-*[Tests](#tests)
-*[License](#license)
-*[Questions](#questions)
+-[Installation](#installation)
+-[Usage](#usage)
+-[Contributions](#contributions)
+-[Tests](#tests)
+-[License](#license)
+-[Questions](#questions)
 
 ## Installation
 Nodejs is required to run this application.
