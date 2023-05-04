@@ -46,7 +46,6 @@ function renderLicenseSection(license) {
   }
   return `## License
 This project is licensed under ${license} 
-${renderLicenseBadge(license)} 
 ${renderLicenseLink(license)}`
 }
 
@@ -67,6 +66,7 @@ const generateMarkdown = ({
 
 ## Description
 ${description}
+${renderLicenseBadge(license)} 
 
 ## Table of Contents
 1. [Installation](#installation)

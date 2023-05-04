@@ -1,4 +1,5 @@
 # SAMPLE README
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Description
 SAMPLE
@@ -25,7 +26,6 @@ SAMPLE
 
 ## License
 This project is licensed under mit 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 https://opensource.org/licenses/MIT
 
 ## Questions
